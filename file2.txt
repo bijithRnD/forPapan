@@ -1,2 +1,2 @@
 "File2 create" 
-Line addedf
+Line addedf Added to show conflict.
